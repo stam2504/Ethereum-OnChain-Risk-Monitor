@@ -23,6 +23,12 @@ Specifically built for Cryptocurrency Funds and Fintech studios like **P4M Devel
 
 ---
 
+* **🛡️ Multi-Factor Stress Testing:**
+    * **Market Risk Engine:** Simulates "Black Swan" events (e.g., -35% ETH price drops) to calculate portfolio drawdown and liquidation thresholds.
+    * **Credit Risk Framework:** Implements Basel III-compliant scenarios (Baseline, Adverse, Severe) using **Probability of Default (PD)** and **Loss Given Default (LGD)** metrics to forecast Expected Loss (EL) in CHF.
+
+---
+
 ## 🛠️ Technical Stack
 
 * **Language:** `Python 3.10+`
@@ -42,7 +48,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repo
-git clone [https://github.com/your-username/Ethereum-OnChain-Risk-Monitor.git](https://github.com/your-username/Ethereum-OnChain-Risk-Monitor.git)
+git clone [https://github.com/stam2504/Ethereum-OnChain-Risk-Monitor.git](https://github.com/stam2504/Ethereum-OnChain-Risk-Monitor.git)
 
 # Navigate to the directory
 cd Ethereum-OnChain-Risk-Monitor
