@@ -8,7 +8,7 @@
 
 This repository contains a professional-grade Python application designed to automate the ingestion and normalization of real-time transactional data from the Ethereum Mainnet. 
 
-Specifically built for Cryptocurrency Funds and Fintech studios like **P4M Development**, EORM serves as the foundation for monitoring **Liquidity Risk**, **Whale Activity**, and **Smart Contract Exposure** with institutional-grade security and reliability.
+Specifically built for Cryptocurrency Funds and Fintech studios, EORM serves as the foundation for monitoring **Liquidity Risk**, **Whale Activity**, and **Smart Contract Exposure** with institutional-grade security and reliability.
 
 > **Key Objective:** Transform raw, unstructured blockchain data into actionable financial metrics.
 
